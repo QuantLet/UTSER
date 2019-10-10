@@ -1,0 +1,22 @@
+Name of Quantlet: UTSE
+
+Published in: submitted to N/A 
+
+Description: 'Performs the Unified term structure of exchange rates in solving the exchange rate forecasting puzzle in short 
+forecasting horizon.'
+
+Keywords: 'linear model, regression, state-space model, time varying, Markov Switching, exchange rates, prediction.'
+
+Author: Xinjue Li
+
+Submitted:  22 August 2019 by Xinjue Li
+
+Datafile: Chian.csv, Japan.csv, British.csv, Euro.csv
+
+Input: 
+- a                 : Starting point of observations 
+- b                 : Ending point of observations 
+- alpha1            : The AR(1) process coefficient of the periodic component
+- beta1             : The AR(1) process coefficient of the sharp rise and sharp fall component
+- SQl               : Variance of the error term in the priodic component
+- SQ2               : Variance of the error term in the sharp rise and sharp fall component 
