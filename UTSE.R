@@ -1,5 +1,6 @@
 
 setwd("C:/")
+# change to your working dir
 library(MASS)
 rm(list = ls(all = TRUE))
 graphics.off()
