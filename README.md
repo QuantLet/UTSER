@@ -9,7 +9,7 @@ Name of Quantlet: UTSE
 
 Published in: submitted to N/A
 
-Description: Performs the Unified term structure of exchange rates in solving the exchange rate forecasting puzzle in short
+Description: Performs the Unified term structure of exchange rates in solving the exchange rate forecasting puzzle in short forecasting horizon.
 
 Keywords: linear model, regression, state-space model, time varying, Markov Switching, exchange rates, prediction.
 
